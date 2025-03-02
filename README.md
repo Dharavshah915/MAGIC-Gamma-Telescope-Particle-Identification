@@ -8,7 +8,7 @@ Interestingly, the model was significantly better at predicting Gamma particles 
 |--------|-----------|--------|----------|---------|
 | **0 (Hadron)** | 0.74 | 0.87 | 0.80 | 1,185 |
 | **1 (Gamma)**  | 0.94 | 0.86 | 0.90 | 2,619 |
-| **Overall Accuracy** | **0.86** | - | - | **3,804** |
+| **Overall Accuracy** | - | - | **0.86** | **3,804** |
 | **Macro Avg** | 0.84 | 0.86 | 0.85 | 3,804 |
 | **Weighted Avg** | 0.87 | 0.86 | 0.86 | 3,804 |
 
